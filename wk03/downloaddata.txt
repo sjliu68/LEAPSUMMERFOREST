@@ -1,0 +1,6 @@
+Need 
+BiomeE_AllGridData.nc (~800MB)
+BiomeE_Global_IncreasingCO2_DBH10cm.nc (~3.5GB)
+
+Additional:
+BiomeE_AllCohortdData.nc (~16.5GB)
